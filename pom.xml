@@ -150,11 +150,4 @@
         </plugins>
     </build>
 
-    <developers>
-	<developer>
-		<name> Henrique </name>
-		<email> henrique.tvf@gmail.com </email>
-	<developer>
-    </developers>
-
 </project>
